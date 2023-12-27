@@ -1,1 +1,2 @@
 # Movie-Recommender-System
+A personalized movie recommender using machine learning! Leveraging advanced techniques such as CountVectorizer for text representation, stemming for semantic simplification, and Cosine Similarity for precise recommendations. The data cleaning process ensures top-notch input. The cherry on top? An intuitive Streamlit interface for a seamless user experience. Explore your next favorite film effortlessly!
